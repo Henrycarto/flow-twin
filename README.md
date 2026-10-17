@@ -1,5 +1,7 @@
 # Hospital flow twin
 
+Live: https://flow-twin.vercel.app
+
 An isometric digital twin of a small hospital's flow. A simulated day runs from the front door,
 through the emergency department (ED), to a ward bed and home. Levers ask what would happen with
 more ED doctors, escalation beds, earlier discharges or a discharge lounge. Every scenario runs

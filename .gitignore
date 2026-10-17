@@ -5,3 +5,6 @@ dist-single
 .env
 *.zip
 *.tsbuildinfo
+
+.vercel
+.vercel
